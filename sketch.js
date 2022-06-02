@@ -72,5 +72,5 @@ function updateTime() {
   m = minute() ; 
   print(" minute: " + m) ;
   s = second() ;
-  println(" second: " + s) ;
+  print(" second: " + s) ;
 }
